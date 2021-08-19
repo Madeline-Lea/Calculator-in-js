@@ -1,0 +1,34 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(240deg, black, silver, white);
+}
+.buttons{
+    width: 50px;
+    height: 40px;
+background:black;
+color: white;
+border-radius: 5px;
+
+}
+
+.visor{
+    font-size: 1.5em;
+    color: darkslateblue;
+border-radius: 5px;
+}
+
+h1{
+    font-family: 'Arial';
+    font-style: italic;
+    font-weight: lighter;
+    font-size: 50px;
+    border: solid 3mm black;
+    border-radius: 20px;
+    color:black;
+    text-align: center;
+    background-image: linear-gradient(pink, salmon, purple);
+    width: 6em;
+    height: 2cm;
+}
+
+
